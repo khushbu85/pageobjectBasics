@@ -29,7 +29,7 @@ public class LoginTest {
 			e.printStackTrace();
 		}
 		System.out.println("login done successfully");
-		Assert.fail("login failed");
+		//Assert.fail("login failed");
 	}
 
 }
