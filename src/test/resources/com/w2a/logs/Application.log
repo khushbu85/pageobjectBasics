@@ -1,0 +1,10 @@
+19/01/2020 16:00:59 devpinoyLogger config loaded
+19/01/2020 16:01:25 devpinoyLogger clicking on an element: loginlink_CSS
+19/01/2020 16:01:25 devpinoyLogger typing on an element: email_CSSwith value: khushbu.daga19@gmail.com
+19/01/2020 16:01:25 devpinoyLogger clicking on an element: next_CSS
+19/01/2020 16:01:25 devpinoyLogger typing on an element: password_CSSwith value: Test1@123
+19/01/2020 16:01:26 devpinoyLogger clicking on an element: signbtn_CSS
+19/01/2020 16:01:57 devpinoyLogger clicking on an element: crmlink_CSS
+19/01/2020 16:01:57 devpinoyLogger clicking on an element: accountstab_CSS
+19/01/2020 16:01:59 devpinoyLogger clicking on an element: createaccountbtn_CSS
+19/01/2020 16:02:00 devpinoyLogger typing on an element: accountname_CSSwith value: Raman

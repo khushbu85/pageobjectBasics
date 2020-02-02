@@ -1,0 +1,20 @@
+16:00:59,328 DEBUG devpinoyLogger:64 - config loaded
+16:01:25,159 DEBUG devpinoyLogger:149 - clicking on an element: loginlink_CSS
+16:01:25,562 DEBUG devpinoyLogger:165 - typing on an element: email_CSSwith value: khushbu.daga19@gmail.com
+16:01:25,693 DEBUG devpinoyLogger:149 - clicking on an element: next_CSS
+16:01:25,875 DEBUG devpinoyLogger:165 - typing on an element: password_CSSwith value: Test1@123
+16:01:26,001 DEBUG devpinoyLogger:149 - clicking on an element: signbtn_CSS
+16:01:51,736 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:01:51,738 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:01:51,741 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:01:51,743 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:01:51,744 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/khushbu.daga/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:01:57,334 DEBUG devpinoyLogger:149 - clicking on an element: crmlink_CSS
+16:01:57,728 DEBUG devpinoyLogger:149 - clicking on an element: accountstab_CSS
+16:01:59,310 DEBUG devpinoyLogger:149 - clicking on an element: createaccountbtn_CSS
+16:02:00,350 DEBUG devpinoyLogger:165 - typing on an element: accountname_CSSwith value: Raman
+16:02:00,917 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:02:00,919 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:02:00,920 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:02:00,921 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:02:00,921 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/khushbu.daga/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
