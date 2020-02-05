@@ -97,12 +97,13 @@ public class Page {
 						"C:\\Users\\khushbu.daga\\eclipse-workspacenew\\DataHybrid\\src\\test\\resources\\executables\\chromedriver.exe");
 
 				Map<String, Object> prefs = new HashMap<String, Object>();
-				prefs.put("profile.default_content_setting_values.notifications", 2);
+				prefs.put("profile.default_content_setting_values.notifications", 2); // disable chrome notifications
+				//chrome will stop asking to save your password
 				prefs.put("credentials_enable_service", false);
 				prefs.put("profile.password_manager_enabled", false);
 				ChromeOptions options = new ChromeOptions();
 				options.setExperimentalOption("prefs", prefs);
-				options.addArguments("--disable-extensions");
+				options.addArguments("--disable-extensions"); //disable developer more extensions
 				options.addArguments("--disable-infobars");
 
 				driver = new ChromeDriver(options);
